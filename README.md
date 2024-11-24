@@ -1,1 +1,1 @@
-gdgd# numpy_lab
+# numpy_lab
